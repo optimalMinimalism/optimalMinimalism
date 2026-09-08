@@ -15,10 +15,11 @@ Embedded Software / Firmware Engineer.
 
 ## Current projects
 
+* **DogFight** — Modular Embedded targeting system using edge-AI and Computer Vision 
 * **Assembly Morse Encoder** — STM32 Bare-metal Morse code encoder written in Assembly, driving GPIO directly through memory-mapped registers
 * **EdgeGuard** — ESP32-S3 edge-AI intrusion detection system
 * **CompatBSD** — Linux compatibility and runtime tooling for FreeBSD
-* **Defence Tech for Ukraine** - Embedded systems and Edge AI for defence and battlefield use
+
   
 
 ## Languages
