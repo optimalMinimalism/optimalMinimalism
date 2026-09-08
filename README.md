@@ -23,4 +23,4 @@ Embedded Software / Firmware Engineer.
 
 ## Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=optimalMinimalism\&layout=compact\&langs_count=10\&hide_border=true)
+![Languages by Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=optimalMinimalism&theme=github_dark)
