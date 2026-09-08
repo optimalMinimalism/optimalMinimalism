@@ -1,40 +1,26 @@
-<div align="center">
+# Hey, I'm Filipe Bertolucci
 
-# optimalMinimalism
+Embedded Software / Firmware Engineer.
 
-### Software Engineer real-world technical systems.
+## What I work with
 
-I build practical software with clean architecture, readable code, and deployment in mind.  
+* C / C++
+* Assembly
+* FreeRTOS
+* ESP32 / STM32
+* Linux / FreeBSD
+* UART / SPI / I²C / GPIO
+* Embedded networking
+* Edge AI / Computer Vision
 
+## Current projects
 
-</div>
+* **Assembly Morse Encoder** — STM32 Bare-metal Morse code encoder written in Assembly, driving GPIO directly through memory-mapped registers
+* **EdgeGuard** — ESP32-S3 edge-AI intrusion detection system
+* **CompatBSD** — Linux compatibility and runtime tooling for FreeBSD
+* **Defence Tech for Ukraine** - Embedded systems and Edge AI for defence and battlefield use
+  
 
----
+## Languages
 
-My goal is to turn prototypes into understandable, deployable, and reviewable software.
-
----
-
-## GitHub Focus
-
-I use this GitHub as a working portfolio: not just code dumps, but projects that show how I think, structure software, and solve technical problems.
-
-What I care about:
-
-- readable code
-- clear project structure
-- practical features
-- deployable results
-- simple documentation
-- continuous improvement
-
----
-
-
----
-
-<div align="center">
-
-### Build clean. Ship useful. Improve constantly.
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=optimalMinimalism\&layout=compact\&langs_count=10\&hide_border=true)
